@@ -1,5 +1,5 @@
 # Ukrainian Phonetic Keyboard Layout for Chromebook / Chrome OS
-This adds a Ukrainian Phonetic keyboard layout to Chromebook / Chrome OS (see Ukrainian language in chrome://setting/languages).
+This adds a Ukrainian Phonetic keyboard layout to Chromebook / Chrome OS (see Ukrainian language in chrome://settings/languages).
 
 Українська фонетична розкладка клавіатури для Chromebook / Chrome OS, яка повністю повторює розкладку "Ukrainian Phonetic" для інших дистрибутивів Linux. Фонетична розкладка полегшує набір українського тексту на клавіатурах з відсутніми кирилічними символами.
 
