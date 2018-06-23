@@ -9,6 +9,8 @@ How to install:
 3. Pick the folder containing **manifest.json** to load the extension
 4. Logout / Login
 5. Head over to **chrome://settings/languages**
-6. Add Ukrainian language if not added yet
-7. Set Ukrainian Phonetic keyboard layout / input method
-8. Optionally, remove the default Ukrainian keyboard layout / input method
+6. Add **Ukrainian** language if not added yet
+7. Select **Ukrainian Phonetic** input method
+8. Optionally, deselect the default **Ukrainian keyboard** input method
+
+![](https://i.imgur.com/j8wp6Va.png)
